@@ -1,5 +1,4 @@
 # QuanLyDuAn_WebAPI
-# Quản Lý Dự Án - Web API
 
 ## Giới thiệu
 Dự án xây dựng hệ thống quản lý dự án trực tuyến, áp dụng các kiến thức về Lập trình hướng đối tượng (OOP) và xây dựng RESTful API.
