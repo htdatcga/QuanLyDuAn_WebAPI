@@ -10,10 +10,10 @@ Dự án xây dựng hệ thống quản lý dự án trực tuyến, áp dụng
 - GitHub
 
 ## 👥 Thành viên nhóm
-- [Tên bạn] (Nhóm trưởng)
-- [Tên thành viên 2]
-- [Tên thành viên 3]
-- [Tên thành viên 4]
+- [Vũ Đặng Hà Châu] (Nhóm trưởng)
+- [Nguyễn Đức Anh]
+- [Phan Văn Vọng]
+- [Hoàng Tiến Đạt]
 
 ## ⚙️ Chức năng chính
 - Quản lý người dùng và phân quyền
